@@ -4,3 +4,5 @@ mv .Xresources ~/.Xresources
 xrdb -merge ~/.Xresources
 curl http://www.ihdwallpaperx.com/wp-content/uploads/2015/03/SPACE-FULL-HD-WALLPAPER-25.jpg -o Pictures/space.jpg   
 mv theme.lua /usr/share/awesome/themes/default/theme.lua
+git config --global user.name "Ashley Davies-Lyons"
+git config --global user.email "ashley@daviesl.uk"
